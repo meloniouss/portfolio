@@ -97,7 +97,7 @@ export const DATA = {
       start: "June 2025",
       end: "September 2025",
       description:
-        "Working on integrating Apple Vision Pro with Unreal Engine for AR/VR applications, focusing on real-time rendering optimization and C++-based graphical performance improvements as part of the AR/VR team.",
+      "Sole developer of an AR/VR CAD application for Meta Quest 3 in C#, capable of handling 5M+ polygons with optimized spatial tracking and stable frame rates via OpenXR. Designed and implemented a custom low-latency networking stack supporting 25 concurrent users, multi-user synchronization, deterministic replay, and session persistence. Engineered modular subsystems for headset state serialization, session recovery, and time-aligned replay to ensure deterministic behavior across devices."
     },
     {
       company: "CAE",

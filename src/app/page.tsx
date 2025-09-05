@@ -20,9 +20,10 @@ export default function Page() {
             <div className="flex-col flex flex-1 space-y-1.5">
               <BlurFadeText
                 delay={BLUR_FADE_DELAY}
-                className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none"
+                  className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none
+             text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-orange-400 to-purple-600"
                 yOffset={8}
-                text={`Hi, I'm ${DATA.name.split(" ")[0]} 👋`}
+                text={`Hi, I'm ${DATA.name.split(" ")[0]}`}
               />
               <BlurFadeText
                 className="max-w-[600px] md:text-xl"
@@ -156,13 +157,11 @@ export default function Page() {
                 <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
                   My Projects
                 </div>
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
+                <h2 className ="text-3xl font-bold tracking-tighter sm:text-5xl bg-gradient-to-r from-pink-500 via-yellow-500 to-teal-500 text-transparent bg-clip-text">
                   Check out my latest work
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I&apos;ve worked on a variety of projects, from simple
-                  websites to complex web applications. Here are a few of my
-                  favorites.
+                  I&apos;ve worked on a variety of projects, from full-stack websites to complex distributed systems . Here are a few of my favorites.
                 </p>
               </div>
             </div>
