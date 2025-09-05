@@ -11,7 +11,7 @@ export const DATA = {
     "I like building things from scratch and making them run fast.",
   summary:
     "I'm a systems programmer focused on distributed systems, backend infrastructure, and performance. I enjoy building things from scratch.",
-  avatarUrl: "/pfp.jpg", // Update with your actual avatar path
+  avatarUrl: "pfp.jpg", // Update with your actual avatar path
   skills: {
     languages: [
       "C++",
@@ -81,7 +81,7 @@ export const DATA = {
       badges: [],
       location: "Vancouver, BC",
       title: "Software Development Engineer Intern",
-      logoUrl: "/zon.png", // Add your logo file
+      logoUrl: "zon.png", // Add your logo file
       start: "September 2025",
       end: "December 2025",
       description:
@@ -93,7 +93,7 @@ export const DATA = {
       badges: [],
       location: "Montreal, QC",
       title: "Software Engineering Intern",
-      logoUrl: "/bombardier3.png", // Add your logo file
+      logoUrl: "bombardier3.png", // Add your logo file
       start: "June 2025",
       end: "September 2025",
       description:
@@ -105,7 +105,7 @@ export const DATA = {
       badges: [],
       location: "Montreal, QC",
       title: "Software Development Intern",
-      logoUrl: "/cae.png", // Add your logo file
+      logoUrl: "cae.png", // Add your logo file
       start: "September 2024",
       end: "December 2024",
       description:
@@ -118,7 +118,7 @@ export const DATA = {
       school: "Concordia University",
       href: "https://concordia.ca",
       degree: "Bachelor of Engineering in Software Engineering (BEng.)",
-      logoUrl: "/concordia.png",
+      logoUrl: "concordia.png",
       start: "2023",
       end: "2027 (Expected)",
       gpa: "3.98",
@@ -147,7 +147,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/dfs.png",
+      image: "dfs.png",
       video: "",
     },
     {
@@ -171,7 +171,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/redis.png",
+      image: "redis.png",
       video: "",
     },
     {
@@ -195,7 +195,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/3dmodel.gif",
+      image: "3dmodel.gif",
       video: "",
     },
     {
@@ -228,7 +228,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/chathaven.png",
+      image: "chathaven.png",
       video: "",
     },
     {
@@ -259,7 +259,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/clipmaster.mp4",
+      video: "clipmaster.mp4",
     },
     {
       title: "Taskly",
@@ -295,7 +295,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/taskly.mp4",
+      video: "taskly.mp4",
     },
     {
       title: "CHIP-8 Emulator",
@@ -318,7 +318,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/chip8.mp4",
+      video: "chip8.mp4",
     },
     {
       title: "Conway's Game of Life",
@@ -342,7 +342,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/conways.mp4",
+      video: "conways.mp4",
     },
   ],
 
