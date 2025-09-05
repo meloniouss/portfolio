@@ -55,7 +55,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkedin.com/in/andreijianu", // Update with your LinkedIn
+        url: "https://linkedin.com/in/andreijianu2", // Update with your LinkedIn
         icon: Icons.linkedin,
         navbar: true,
       },
